@@ -1,4 +1,4 @@
-System plugin loadimageonscroll version 1.0.0  is a free software which is developed by
+System plugin loadimageonscroll version 1.0.0  is a free software for joomla 3.x which is developed by
 KWProductions Co. 
 To write this plugin I studied plugin Deferimages of Andrey Miasocdov and I got some ideas
 But the function of my plugin is totally different from his.
