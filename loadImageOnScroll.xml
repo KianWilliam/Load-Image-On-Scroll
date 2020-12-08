@@ -25,13 +25,13 @@
 	<config>
 		<fields name="params">
 			<fieldset name="basic">
-                <field name="loadtype" type="radio" default="lazy" label="Load Type:" description="Auto means regular, Lazy for lazy load on scroll and for Eager the browser shall decide">
+                <field name="loadtype" type="radio" default="lazy" label="PLG_SYSTEM_LOADIMAGEONSCROLL_LOADTYPE_LABEL" description="PLG_SYSTEM_LOADIMAGEONSCROLL_LOADTYPE_DESC">
 					<option value="auto">Auto</option>
 					<option value="lazy">Lazy</option>
                     <option value="eager">Eager</option>
                 </field>
-				<field name="exclude" type="text"  label="Exclude:" description="There might be images with special class or id that you would not like to be lazy loaded, eager loaded and etc, in a SPACE separated list include them, ONLY ADD THE CLASS WITHOUT . AND ID WITHOUT #" />
-				<field name="allowed_pages" type="text" default="" label="Allowed Pages:" description="Leave it empty if you would like all pages of your site to be under effect of this plugin or (any words in the url separated by | character), use \/$ for index , E.g. \/$|blog|products" />
+				<field name="exclude" type="text"  label="PLG_SYSTEM_LOADIMAGEONSCROLL_EXCLUDE_LABEL" description="PLG_SYSTEM_LOADIMAGEONSCROLL_EXCLUDE_DESC" />
+				<field name="allowed_pages" type="text" default="" label="PLG_SYSTEM_LOADIMAGEONSCROLL_ALLOWED_PAGES_LABEL" description="PLG_SYSTEM_LOADIMAGEONSCROLL_ALLOWED_PAGES_DESC" />
 				
 			</fieldset>
 		</fields>
