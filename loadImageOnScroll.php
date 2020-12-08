@@ -32,7 +32,13 @@ class PlgSystemLoadImageOnScroll extends CMSPlugin
 {
 	protected $page;
 	protected $loadtype;
-	
+	protected $autoloadLanguage=true;
+	public function onAfterInitialise()
+	{
+		// Load plugin language files.
+		$this->loadLanguage();
+	}
+
 	public function onAfterRender()
 	{
 		$app = Factory::getApplication();
