@@ -11,7 +11,7 @@
 	<description><![CDATA[ This plugin is developed by <a href="https://kwproductions121.com">KWProductions Co.</a> In case of any problem contact us: webarchitect@kwproductions121.com <br />In case you are using cache extensions in your site or joomla cache itself, clear them first. ]]></description>
     <scriptfile>install.script.php</scriptfile>
 	<files>
-		<filename plugin="loadImageOnScroll">loadImageOnScroll.php</filename>		
+		<filename plugin="loadimageonscroll">loadimageonscroll.php</filename>		
 		<filename>index.html</filename>
 		
 	</files>
@@ -20,7 +20,7 @@
         <language tag="en-GB">en-GB/en-GB.plg_system_loadimageonscroll.sys.ini</language>
     </languages>	
 	<updateservers>
-		<server type="collection" name="loadImageOnScroll"><![CDATA[https://www.extensions.kwproductions121.com/myextensions.xml]]></server>
+		<server type="collection" name="loadimageonscroll"><![CDATA[https://www.extensions.kwproductions121.com/myextensions.xml]]></server>
      </updateservers>
 	<config>
 		<fields name="params">
