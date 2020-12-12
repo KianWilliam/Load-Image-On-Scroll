@@ -28,7 +28,7 @@ use Joomla\CMS\Plugin\CMSPlugin;
 use Joomla\CMS\Factory;
 use Joomla\CMS\Uri\Uri;
 
-class PlgSystemLoadImageOnScroll extends CMSPlugin
+class PlgSystemLoadimageonscroll extends CMSPlugin
 {
 	protected $page;
 	protected $loadtype;
