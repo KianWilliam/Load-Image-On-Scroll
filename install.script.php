@@ -25,7 +25,7 @@
 <?php
 defined('_JEXEC') || die('Restricted access');
 use Joomla\CMS\Factory;
-class PlgSystemLoadImageOnScrollInstallerScript
+class PlgSystemLoadimageonscrollInstallerScript
 {
 	 public function install($parent)
  {
