@@ -9,8 +9,8 @@ In the next version I shall add it too employing a jQuery plugin , the reason I 
 at the first place is the fact that with modern browsers of our time, highly likely a new 
 attribute shall be added sooner or later in css to handle background image lazy load.e.g loading:lazy|auto|eager;
 The license is GNU/GPLv3
-It is written for joomla 3.x,
-you may download the module at:
+It is written for joomla 3.x, joomla 4 alpha, joomla 4 beta
+you may download the plugin at:
 https://www.extensions.kwproductions121.com/myplugins/loadimages.html
 In case of any problem contact us at:
 webarchitect@kwproductions121.com
